@@ -9,3 +9,7 @@ const app = createApp(App)
 app.use(routers)
 
 app.mount('#app')
+
+
+// npx @vue/cli add typescript
+// yarn add axios --save
